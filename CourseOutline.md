@@ -15,8 +15,12 @@ Invited lecture, part of the course [Mathematical Modeling in the Industry](http
      * Yearly objectives, performance reviews, development plans
      * Working with others (other colleagues, other departments, other companies)
     
-## 2 - Main workshop: modeling and control of a vehicle suspension
+## 2 - Workshop: modeling and control of a vehicle suspension
 
+**Main reference**
+
+  * Bill Messner & Dawn Tilbury, [Control Tutorials for Matlab and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?example=Suspension&section=SystemModeling)
+  
 ### 2.1 - System modeling
 
 ### 2.2 - System analysis
@@ -32,11 +36,6 @@ Invited lecture, part of the course [Mathematical Modeling in the Industry](http
 ### 2.7 - Simulink modeling
 
 ### 2.8 - Simulink controller design
-
-
-**Main reference**
-
-  * Bill Messner & Dawn Tilbury, [Control Tutorials for Matlab and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?example=Suspension&section=SystemModeling)
 
 ## 3 - The real deal at work
   * Suspension models and the meaning of model-based development and system identification
