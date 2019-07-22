@@ -12,6 +12,8 @@ Invited lecture, part of the course [Mathematical Modeling in the Industry](http
   * What is mathematical engineering?
   * What do I do at [DRiV](https://www.driv.com/)?
   * Transitioning from the Academia to the Industry
+     * Yearly objectives, performance reviews, development plans
+     * Working with others (other colleagues, other departments, other companies)
     
 ## Main workshop: modeling and control of a vehicle suspension
 
@@ -33,7 +35,7 @@ Invited lecture, part of the course [Mathematical Modeling in the Industry](http
 
 ### Main reference
 
-  * Bill Messner & Dawn Tilbury, Control Tutorials for Matlab and Simulink (http://ctms.engin.umich.edu/CTMS/index.php?example=Suspension&section=SystemModeling)
+  * Bill Messner & Dawn Tilbury, [Control Tutorials for Matlab and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?example=Suspension&section=SystemModeling)
 
 ## The real deal at work
   * Suspension models and the meaning of model-based development and system identification
