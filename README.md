@@ -1,6 +1,6 @@
 # Modeling and control of a vehicle suspension in Matlab/Simulink
 
-Author: [Joan Vazquez Molina](www.linkedin.com/in/joanvazquez)
+Joan Vazquez Molina](http://www.linkedin.com/in/joanvazquez)
 
 October 2019
 
