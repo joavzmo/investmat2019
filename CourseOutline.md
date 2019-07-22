@@ -31,6 +31,10 @@ Invited lecture, part of the course [Mathematical Modeling in the Industry](http
 
 ### Simulink controller design
 
+### Main reference
+
+  * Bill Messner & Dawn Tilbury, Control Tutorials for Matlab and Simulink (http://ctms.engin.umich.edu/CTMS/index.php?example=Suspension&section=SystemModeling)
+
 ## The real deal at work
   * Suspension models and the meaning of model-based development and system identification
   * Vehicle models and the importance of the research question
@@ -38,7 +42,9 @@ Invited lecture, part of the course [Mathematical Modeling in the Industry](http
   * Controller development and the interplay between science and technology
 
 ## Conclusion: the discovery of the inerter
-  * What is an inerter?
-  * How come no one had done this before?
-  * You have the right set of skills to succeed
+  * What is an inerter and how come no one had done this before?
+  * You have a useful set of skills to succeed, but people do not know
   * Final advice
+    * Do stuff (Driving for results, Planning and Organizing, Communication)
+    * Be nice (Building Trusting Relationships, Coaching)
+    * Keep learning (Technical/Professional knowledge and skills)
