@@ -43,7 +43,7 @@ Invited lecture, part of the course [Mathematical Modeling in the Industry](http
 
 ## 4 - Conclusion: the discovery of the inerter
   * What is an inerter and how come no one had done this before?
-  * You have a useful set of skills to succeed, but people do not know
+  * You have a useful set of skills to succeed, but people do not know, despite the hype around math
   * Final advice
     * Do useful stuff (Driving for results, Planning and Organizing, Communication)
     * Be nice (Building Trusting Relationships, Coaching)
