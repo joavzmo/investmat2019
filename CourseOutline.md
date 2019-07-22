@@ -17,9 +17,7 @@ Invited lecture, part of the course [Mathematical Modeling in the Industry](http
     
 ## 2 - Workshop: modeling and control of a vehicle suspension
 
-**Main reference**
-
-  * Bill Messner & Dawn Tilbury, [Control Tutorials for Matlab and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?example=Suspension&section=SystemModeling)
+**Main reference**: Bill Messner & Dawn Tilbury, [Control Tutorials for Matlab and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?example=Suspension&section=SystemModeling)
   
 ### 2.1 - System modeling
 
@@ -47,6 +45,6 @@ Invited lecture, part of the course [Mathematical Modeling in the Industry](http
   * What is an inerter and how come no one had done this before?
   * You have a useful set of skills to succeed, but people do not know
   * Final advice
-    * Do stuff (Driving for results, Planning and Organizing, Communication)
+    * Do useful stuff (Driving for results, Planning and Organizing, Communication)
     * Be nice (Building Trusting Relationships, Coaching)
     * Keep learning (Technical/Professional knowledge and skills)
