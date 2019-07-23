@@ -2,9 +2,7 @@
 
 October 2019
 
-[Joan Vazquez Molina](http://www.linkedin.com/in/joanvazquez)
-
-[DRiV](https://www.driv.com/)
+[Joan Vazquez Molina](http://www.linkedin.com/in/joanvazquez), [DRiV](https://www.driv.com/)
 
 ![driv](aux/driv.png =250x)
 
