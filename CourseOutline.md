@@ -31,7 +31,10 @@ Learning objectives based on [Bloom’s Taxonomy of Measurable Verbs](aux/BloomT
   * Learner will be able to analyze the open-loop step response in Matlab using `step`.
 
 ### 2.3 - PID controller design
-
+  * Learner will be able to create a PID controller in Matlab using `pid`.
+  * Learner will be able to analyze the closed-loop step response in Matlab using `feedback`.
+  * Learner will be able to select the best parameters for a PID controller.
+  
 ### 2.4 - Root locus controller design
 
 ### 2.5 - Frequency response controller design
@@ -42,7 +45,7 @@ Learning objectives based on [Bloom’s Taxonomy of Measurable Verbs](aux/BloomT
 
 ### 2.8 - Simulink controller design
 
-## 3 - The real deal at work
+## 3 - Extension: the real deal at work
   * *DRiV intelligent suspension* portfolio, system models and the meaning of model-based development and system identification
   * Vehicle models and the importance of the research question
   * Road input, maneuvers and the role of standards
