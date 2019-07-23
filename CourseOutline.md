@@ -25,9 +25,10 @@ Learning objectives based on [Bloom’s Taxonomy of Measurable Verbs](aux/BloomT
   * Learner will be able to recognize lumped element models in engineering.
   * Learner will be able to describe the quarter car model.
   * Learner will be able to calculate the relevant Laplace transforms and transfer functions analytically.
-  * Learner will be able to define the system in Matlab using `tf`.
+  * Learner will be able to program the system in Matlab using `tf`.
 
 ### 2.2 - System analysis
+  * Learner will be able to analyze the open-loop step response in Matlab using `step`.
 
 ### 2.3 - PID controller design
 
