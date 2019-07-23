@@ -1,4 +1,4 @@
-´´´matlab
+```matlab
 %% Model of a vehicle suspension - Part 1: System Modeling
 % http://ctms.engin.umich.edu/CTMS/index.php?example=Suspension&section=SystemModeling
 
@@ -44,4 +44,4 @@ are_G1Gu_equal = isequal(G1, Gu);
 are_G2Gw_equal = isequal(G2, Gw);
 are_G1G2_equal = isequal(G1, G2);
 are_GuGw_equal = isequal(Gu, Gw);
-´´´
+```
