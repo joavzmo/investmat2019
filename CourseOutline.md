@@ -29,21 +29,19 @@ Learning objectives based on [Bloom’s Taxonomy of Measurable Verbs](aux/BloomT
 
 ### 2.2 - System analysis
   * Learner will be able to analyze the open-loop step response in Matlab using `step`.
+  * Learner will be able to analyze the frequency response in Matlab using `bode`.
 
 ### 2.3 - PID controller design
   * Learner will be able to create a PID controller in Matlab using `pid`.
   * Learner will be able to analyze the closed-loop step response in Matlab using `feedback`.
   * Learner will be able to select the best parameters for a PID controller.
-  
-### 2.4 - Root locus controller design
 
-### 2.5 - Frequency response controller design
+### 2.4 - Simulink modeling
+  * Learner will be able to describe the main workflow to execute a Simulink simulation from a system of differential equations.
+  * Learner will be able to create a Simulink model of a quarter car.
+  * * Learner will be able to analyze the open loop response of a quarter car in Simulink.
 
-### 2.6 - State-space controller design
-
-### 2.7 - Simulink modeling
-
-### 2.8 - Simulink controller design
+### 2.5 - Simulink controller design
 
 ## 3 - Extension: the real deal at work
   * *DRiV intelligent suspension* portfolio and the meaning of model-based development and system identification.
