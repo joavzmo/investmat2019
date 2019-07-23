@@ -1,4 +1,4 @@
-```matlab
+```Matlab
 %% Model of a vehicle suspension - Part 1: System Modeling
 % http://ctms.engin.umich.edu/CTMS/index.php?example=Suspension&section=SystemModeling
 
