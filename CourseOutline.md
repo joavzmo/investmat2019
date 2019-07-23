@@ -18,8 +18,14 @@ Invited lecture, part of the course [Mathematical Modeling in the Industry](http
 ## 2 - Workshop: modeling and control of a vehicle suspension
 
 **Main reference**: Bill Messner & Dawn Tilbury, [Control Tutorials for Matlab and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?example=Suspension&section=SystemModeling)
+
+Learning objectives Bloom’s Taxonomy of Measurable Verbs()
   
 ### 2.1 - System modeling
+  * Learner will be able to recognize lumped element models in engineering.
+  * Learner will be able to describe the quarter car model.
+  * Learner will be able to calculate the relevant Laplace transforms and transfer functions analytically.
+  * Learner will be able to define the system in Matlab using `tf`.
 
 ### 2.2 - System analysis
 
@@ -36,7 +42,7 @@ Invited lecture, part of the course [Mathematical Modeling in the Industry](http
 ### 2.8 - Simulink controller design
 
 ## 3 - The real deal at work
-  * Suspension models and the meaning of model-based development and system identification
+  * *DRiV intelligent suspension* portfolio, system models and the meaning of model-based development and system identification
   * Vehicle models and the importance of the research question
   * Road input, maneuvers and the role of standards
   * Controller development and the interplay between science and technology
