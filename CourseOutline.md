@@ -17,9 +17,9 @@ Invited lecture, part of the course [Mathematical Modeling in the Industry](http
     
 ## 2 - Workshop: modeling and control of a vehicle suspension
 
-**Main reference**: Bill Messner & Dawn Tilbury, [Control Tutorials for Matlab and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?example=Suspension&section=SystemModeling)
+**Main reference**: Bill Messner & Dawn Tilbury, [Control Tutorials for Matlab and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?example=Suspension&section=SystemModeling).
 
-Learning objectives Bloom’s Taxonomy of Measurable Verbs()
+Learning objectives based on [Bloom’s Taxonomy of Measurable Verbs](aux/BloomTaxonomy.pdf).
   
 ### 2.1 - System modeling
   * Learner will be able to recognize lumped element models in engineering.
