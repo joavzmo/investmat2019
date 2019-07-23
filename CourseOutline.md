@@ -39,9 +39,7 @@ Learning objectives based on [Bloom’s Taxonomy of Measurable Verbs](aux/BloomT
 ### 2.4 - Simulink modeling
   * Learner will be able to describe the main workflow to execute a Simulink simulation from a system of differential equations.
   * Learner will be able to create a Simulink model of a quarter car.
-  * * Learner will be able to analyze the open loop response of a quarter car in Simulink.
-
-### 2.5 - Simulink controller design
+  * Learner will be able to analyze the open loop response of a quarter car in Simulink.
 
 ## 3 - Extension: the real deal at work
   * *DRiV intelligent suspension* portfolio and the meaning of model-based development and system identification.
@@ -50,8 +48,8 @@ Learning objectives based on [Bloom’s Taxonomy of Measurable Verbs](aux/BloomT
   * Controller development and the interplay between science and technology.
 
 ## 4 - Conclusion: the discovery of the inerter
-  * What is an inerter and how come no one had done this before?
-  * You have a useful set of skills to succeed, but people do not know, despite the hype around math.
+  * What is an inerter and how come no one had invented it before?
+  * You have a useful set of skills to succeed, but people do not know (despite the hype around math!).
   * Final advice
     * Do useful stuff (Driving for results, Planning and Organizing, Communication).
     * Be nice (Building Trusting Relationships, Coaching).
