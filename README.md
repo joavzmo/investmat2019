@@ -1,6 +1,6 @@
 # Modeling and control of a vehicle suspension in Matlab/Simulink
 
-October 2019
+14 XOR 21 October 2019, 15h30 - 20h
 
 [Joan Vazquez Molina](http://www.linkedin.com/in/joanvazquez), [DRiV](https://www.driv.com/)
 
