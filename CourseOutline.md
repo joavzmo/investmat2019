@@ -23,23 +23,26 @@ Learning objectives based on [Bloom’s Taxonomy of Measurable Verbs](aux/BloomT
   
 ### 2.1 - System modeling
   * Learner will be able to recognize lumped element models in engineering.
-  * Learner will be able to describe the quarter car model.
-  * Learner will be able to calculate the relevant Laplace transforms and transfer functions analytically.
+  * Learner will be able to describe the quarter car model used in vehicle engineering.
+  * Learner will be able to calculate Laplace transforms and transfer functions analytically.
   * Learner will be able to create transfer functions in Matlab using `tf`.
+  * Learner will be able to create a quarter car model in Matlab.
 
 ### 2.2 - System analysis
   * Learner will be able to analyze the open-loop step response in Matlab using `step`.
   * Learner will be able to analyze the frequency response in Matlab using `bode`.
+  * Learner will be able to evaluate whether a certain suspension satisfies the design requirements.
 
 ### 2.3 - PID controller design
   * Learner will be able to create a PID controller in Matlab using `pid`.
   * Learner will be able to analyze the closed-loop step response in Matlab using `feedback`.
-  * Learner will be able to select the best parameters for a PID controller.
+  * Learner will be able to select the parameters of a PID controller for an active suspension that improve its performance.
 
 ### 2.4 - Simulink modeling
-  * Learner will be able to describe the main workflow to execute a Simulink simulation from a system of differential equations.
-  * Learner will be able to create a Simulink model of a quarter car.
+  * Learner will be able to describe the main workflow to execute a Simulink simulation.
+  * Learner will be able to create a Simulink model from a system of differential equations.
   * Learner will be able to analyze the open loop response of a quarter car in Simulink.
+  * Learner will be able to control Simulink from Matlab using `sim`.
 
 ## 3 - Extension: the real deal at work
   * *DRiV intelligent suspension* portfolio and the meaning of model-based development and system identification.
