@@ -10,7 +10,6 @@ b1 = 350;           % N*s/m damping constant of suspension
 b2 = 15020;         % N*s/m damping constant of tire
 
 %% Transfer functions
-% Method 1: define the Laplace variable.
 s = tf('s');
 % TF wrt active force
 G1 = ((m1+m2)*s^2+b2*s+k2)/((m1*s^2+b1*s+k1)*(m2*s^2+(b1+b2)*s+(k1+k2))-(b1*s+k1)*(b1*s+k1));
