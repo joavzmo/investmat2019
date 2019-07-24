@@ -1,1 +1,3 @@
-# Lecture files (presentations and notes)
+(work in progress)
+
+# Lecture presentations and notes
