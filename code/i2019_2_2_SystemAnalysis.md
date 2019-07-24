@@ -1,3 +1,4 @@
+```Matlab
 %% Model of a vehicle suspension - Part 2: System Analysis
 
 %% Parameters
@@ -38,3 +39,4 @@ bode(G1,w)
 K=100000;
 figure(2)
 bode(K*G1,w)
+```
