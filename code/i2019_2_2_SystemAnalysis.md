@@ -32,10 +32,10 @@ ylabel('X1 - X2 (m)')
 %% Frequency response
 % Suggestion: help bode
 w = logspace(-1,2);
-figure(1)
+figure(3)
 bode(G1,w)
 % Normalize scale based on former plot
 K=100000;
-figure(2)
+figure(4)
 bode(K*G1,w)
 ```
