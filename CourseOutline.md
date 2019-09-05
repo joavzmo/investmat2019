@@ -7,7 +7,7 @@ Invited lecture, part of the course [Mathematical Modeling in the Industry](http
 ## 1 - Introduction: mathematical engineering in the industry
   * What is mathematical engineering?
   * What do I do at [DRiV](https://www.driv.com/)?
-  * Transitioning from the Academia to the Industry.
+  * Transitioning from the Academia to the industry.
      * Yearly objectives, performance reviews, development plans.
      * Working with others (other colleagues, other departments, other companies).
     
@@ -40,14 +40,14 @@ Learning objectives based on [Bloom’s Taxonomy of Measurable Verbs](aux/BloomT
   * Learner will be able to analyze the open loop response of a quarter car in Simulink.
   * Learner will be able to control Simulink from Matlab using `sim`.
 
-## 3 - Extension: the real deal at work
-  * *DRiV intelligent suspension* portfolio and the meaning of model-based development and system identification.
+## 3 - Extension: a glimpse to model-based development at DRiV
+  * *DRiV intelligent suspension* portfolio and the meaning of model-based development.
   * Vehicle models and the importance of the research question.
   * Road input, maneuvers and the role of standards.
   * Controller development and the interplay between science and technology.
 
-## 4 - Conclusion: the discovery of the inerter
-  * What is an inerter and how come no one had invented it before?
+## 4 - Conclusion: your added value
+  * A tale: what is an inerter and how come no one had invented it before?
   * You have a useful set of skills to succeed, but people do not know (despite the hype around math!).
   * Final advice
     * Do useful stuff (Driving for results, Planning and Organizing, Communication).
