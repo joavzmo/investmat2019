@@ -1,3 +1,3 @@
 # Matlab/Simulink files
 
-.m files can be run directly, .md files are meant to be used for visualization within Github
+.m files can be run in Matlab, .md files are meant for visualization within Github.
