@@ -1,0 +1,54 @@
+%% Model of a vehicle suspension - Part 3: PID Controller
+
+%% Parameters
+m1 = 2500;          % kg, sprung mass
+m2 = 320;           % kg, unsprung mass
+k1 = 80000;         % N/m, spring constant of suspension
+k2 = 500000;        % N/m, spring constant of tire
+b1 = 350;           % N*s/m damping constant of suspension
+b2 = 15020;         % N*s/m damping constant of tire
+
+%% Transfer functions
+% TF wrt active force
+num_u = [(m1+m2) b2 k2];
+den_u = [(m1*m2) (m1*(b1+b2))+(m2*b1) (m1*(k1+k2))+(m2*k1)+(b1*b2) (b1*k2)+(b2*k1) k1*k2];
+Gu = tf(num_u,den_u);
+% TF wrt road
+num_w = [-(m1*b2) -(m1*k2) 0 0];
+den_w = [(m1*m2) (m1*(b1+b2))+(m2*b1) (m1*(k1+k2))+(m2*k1)+(b1*b2) (b1*k2)+(b2*k1) k1*k2];
+Gw = tf(num_w,den_w);
+% TF of F
+num_F = num_w;
+den_F = num_u;
+F = tf(num_F, den_F);
+
+% Note: you could actually do F = Gw/Gu to obtain an equivalent higher order tf
+% You could then check that zpk(minreal(zpk(Fa))) is numerically the same than zpk(Fb)
+% Not recommended
+
+%% PID controller
+% Suggestion: help pid
+Kd = 208025;
+Kp = 832100;
+Ki = 624075;
+C = pid(Kp,Ki,Kd);
+
+%% Closed-loop response
+% Suggestion: help feedback
+% Define the closed loop system
+sys_cl = F*feedback(Gu,C);
+% Closed-loop response for a step disturbance input with magnitude 0.1 m
+t=0:0.05:5; % time vector to plot step
+figure(1)
+step(0.1*sys_cl,t)
+title('Response to a 0.1-m Step under PID Control')
+
+%% New PID values and response
+Kd2 = 2*Kd;
+Kp2 = 2*Kp;
+Ki2 = 2*Ki;
+C2 = pid(Kp2,Ki2,Kd2);
+sys_cl2 = F*feedback(Gu,C2);
+figure(2)
+step(0.1*sys_cl2,t)
+title('Response to a 0.1-m Step w/ High-Gain PID')
